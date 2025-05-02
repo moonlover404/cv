@@ -137,6 +137,24 @@ Vmware Administration and patch management
 Technical Environment: Red Hat Enterprise Linux 6/7, Gentoo Linux, Sendmail, Qmail, Postgres, MySQL, Configuration Management, Cloud deployments, for 1,000,000+ users and 600+ server
 
 
+ <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-02.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> NAgin Cox: Livin Like A Rover</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-04.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Curiosity: The First10years</a></figcaption>
+</figure>
+
+  <figure>
+ <a href="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" > 
+ <img src="https://dn721804.ca.archive.org/0/items/image-01_202504/image-05.png" alt="NAgin Cox Livin Like A Rover" /> </a>
+  <figcaption><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl"> Curiosity: The First10years</a></figcaption>
+</figure>
+
 
 ## Linux Engineer
 ## Company NameSITA Full-time
