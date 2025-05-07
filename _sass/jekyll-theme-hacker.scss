@@ -67,14 +67,16 @@ table {
 
 
 body {
-  background: url(https://raw.githubusercontent.com/ricoThaka/cv/master/assets/images/me_at_nasa_taken_by_JOSE_Pi.jpg) no-repeat center center fixed; 
+/* MAY_6_2025 , background picture vandalized by blog thieves  background: url(https://raw.githubusercontent.com/ricoThaka/cv/master/assets/images/me_at_nasa_taken_by_JOSE_Pi.jpg) no-repeat center center fixed; @github @nasa @nasa-jpl @deptofdefense */
   font-family: Ubuntu, sans-serif;
-  line-height: 1.5;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  background: url(https://mars.nasa.gov/system/resources/detail_files/25435_PIA24179-SuperCam-meteorite-ISS-1200.jpg) no-repeat 0 0 fixed; 
+  background-size: cover;
+   line-height: 1.5;
    -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
 
 
