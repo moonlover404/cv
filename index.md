@@ -15,8 +15,8 @@ After 20 years in Information Technology, I have developed several practical ski
 ## ##LANGUAGES = "Programming and Communicative" ##
 {% highlight ruby %}
 KNOWN_PROGRAMMiNG_LANGUAGES =  [  
-[ "ANSiBLE_ADVANCED", "HTML_ADVANCED", "BASH_ADVANCED" ]
-[ "RUBY_iNTERMEDiATE", "CSS_ADVANCED" ]
+[ "ANSiBLE_", "HTML5_ADVANCED", "BASH_iNTERMEDiATE" ]
+[ "RUBY_iNTERMEDiATE", "CSS_ADVANCED", "MARKDOWN_iNTERMEDiATE" ]
 [ "PYTHON_iNTERMEDiATE", "PHP_BEGiNNER",  ]
 ] ##THATS_HOW_i_GET_MY_WERK_DONE!!!
 {% endhighlight %}
